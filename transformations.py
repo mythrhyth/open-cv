@@ -12,3 +12,5 @@ def translate(img, x, y):
 
 
 translated = translate(img, 100, 100)
+
+cv.waitKey(0)
